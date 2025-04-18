@@ -1,3 +1,3 @@
 abcde
   edu dept
-mrg dept
+loan dept
